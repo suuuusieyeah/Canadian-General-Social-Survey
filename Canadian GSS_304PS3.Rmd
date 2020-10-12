@@ -1,0 +1,11 @@
+---
+title: "Canadian GSS_304PS3"
+author: "su"
+date: "10/12/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+
+```
+
